@@ -1,5 +1,15 @@
 body {color :rgb(240, 183, 133);
       background-color:sienna;
-    }
+     }
 
+div  {font-size: 20px;
+      text-align: center     
+     }
+
+.image1 {text-align: center;}
+
+h3, p{text-align: center;}
+
+ul, h2, ol {text-align: justify;}
     
+
